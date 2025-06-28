@@ -34,3 +34,9 @@ I filtered for low-visibility products. Products with low views could be poorly 
  ## Conclusion.
  The data shows a market that’s price-sensitive and competitive. Discounts are widely used to drive sales, especially in tech and fashion. However, not all discounted products are highly rated or reviewed, suggesting room for better targeting or quality control. Understanding which products succeed (and why) can help shape inventory, pricing, and marketing strategies.
 
+ ## ANALYSIS
+
+
+ [AMAZON CASE STUDY ANALISED.xlsx](https://github.com/user-attachments/files/20958104/AMAZON.CASE.STUDY.ANALISED.xlsx)
+
+
